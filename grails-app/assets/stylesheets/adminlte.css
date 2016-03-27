@@ -1,0 +1,16 @@
+/*
+*= require bootstrap.min
+*= require ../adminlte/css/font-awesome.min.css
+*= require ../adminlte/css/ionicicons.min.css
+*= require ../adminlte/css/AdminLTE.min.css
+*= require ../adminlte/css/skins/skin-blue.min.css
+*= require ../adminlte/plugins/morris/morris.css
+*= require ../adminlte/plugins/datepicker/datepicker3.css
+*= require ../adminlte/plugins/select2/select2.css
+*= require_self
+*/
+
+
+.select2-container .select2-selection--single {
+	height: 34px;
+}
